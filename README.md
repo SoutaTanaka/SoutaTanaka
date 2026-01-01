@@ -44,10 +44,6 @@
   <img src="https://streak-stats.demolab.com/?user=SoutaTanaka&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=SoutaTanaka&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy"/>
-</div>
-
 ---
 
 <h2 align="center">📈 Contribution Graph</h2>
@@ -79,9 +75,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <samp>
-    ⭐️ From <a href="https://github.com/SoutaTanaka">SoutaTanaka</a> - いつも見てくれてありがとうございます！
-  </samp>
-</div>
